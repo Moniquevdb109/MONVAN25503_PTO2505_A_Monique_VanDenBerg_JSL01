@@ -1,23 +1,25 @@
-<html>
-  <head>
-    <meta />
-    <meta />
-    <title>Document</title>
-  </head>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Kanban Board</title>
+</head>
   <body>
     <!-- Navigation Sidebar: Contains the logo, navigation links for boards, and theme toggle. -->
     <nav>
-      <div>
+      <div class="nav-bar">
+        <img id="kanban-logo" src="./assets/logo-light.svg">
         <h4>ALL BOARDS (1)</h4>
         <button>Launch Career</button>
       </div>
     </nav>
 
     <!-- Main Layout: Header with board title, add task button, and main content area for task columns. -->
-    <div>
+    <div class="kanban-body">
       <header>
-        <div>
+        <div class="kanbar-header">
           <h2>Launch Career</h2>
         </div>
       </header>
@@ -33,7 +35,9 @@
             <!-- Tasks container for TODO -->
             <div>
               <div>Launch Epic Career 🚀</div>
-              <div>Learn Data Structures and Algorithms 📚</div>
+              <div>Conquer React⚛️</div>
+              <div>Understand Databases⚙️</div>
+              <div>Crush Frameworks🖼️</div>
             </div>
           </div>
           <!-- DOING Column -->
@@ -45,7 +49,7 @@
             <!-- Tasks container for DOING -->
             <div>
               <div>Master JavaScript 💛</div>
-              <div>Keep on Going 🏆</div>
+              <div>Never Give Up🏆</div>
             </div>
           </div>
           <!-- DONE Column -->
@@ -56,8 +60,8 @@
             </div>
             <!-- Tasks container for DONE -->
             <div>
-              <div>Contribute to Open Source Projects 🌐</div>
-              <div>Build Portfolio Projects 🛠️</div>
+              <div>Explore ES6 Features🚀</div>
+              <div>Have fun 🥳</div>
             </div>
           </div>
         </main>
