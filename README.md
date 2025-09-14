@@ -1,35 +1,54 @@
-# JSL01 Challenge Brief: Kanban Board UI Implementation
+# Kanban Board UI
 
-## Figma Design Link
+## 💡 Overview
 
-Before starting this project, refer to the provided Figma design for layout, styling, and responsiveness details: https://www.figma.com/design/y7bFCUYL5ZHfPeojACBXg2/Challenge-1-%7C-JSL?node-id=0-1&t=yngAIXXKnJfH7Jj3-1
+This project is a **responsive and visually accurate Kanban board** built directly from the provided **Figma design**.  
+It features multiple columns, task cards, and a static sidebar, all styled with a consistent theme to ensure a **professional and polished user experience**.
 
-## Overview
+**Figma Design:** https://www.figma.com/design/y7bFCUYL5ZHfPeojACBXg2/Challenge-1-%7C-JSL?node-id=0-1&t=yngAIXXKnJfH7Jj3-1
 
-This project involves developing a **visually accurate and fully responsive Kanban board** that aligns with the provided **Figma design**. The board should be structured into multiple columns and include task cards, a static side panel, and a well-defined theme to ensure a **professional and polished user experience.**
+## 🚀 Features & Objectives
 
-## Before You Begin
-
-**Check the project user stories in your student dashboard** before you start building.
-
-## Key Objectives
-
-- Implement a **favicon and page title** that match the application’s theme for a professional look.
-- Create a **Kanban board with multiple columns** (e.g., "To Do", "In Progress", "Done") that **exactly replicates** the Figma design layout.
-- Ensure the **board’s layout, colours, typography, and spacing** strictly follow the Figma specifications for visual consistency.
-- Develop a **fully responsive** board that adapts seamlessly to **both laptops and mobile devices**, mirroring the Figma design’s responsive behavior.
-- Display **tasks as individual cards** within their respective columns, ensuring their design (borders, shadows, padding) follows the Figma guidelines for clarity and appeal.
-- Include **titles on all task cards** to provide clear task descriptions.
-- Implement a **static side panel with** the correct **icons, text, and branding elements** as per the Figma layout for a structured and professional appearance.
+- Added a **favicon and page title** that match the project’s branding.  
+- Built a **Kanban board with multiple columns** (e.g., *To Do*, *Doing*, *Done*) exactly as in the Figma design.  
+- Matched the **layout, colors, typography, and spacing** from the Figma file for pixel-perfect accuracy.  
+- Ensured the app is **fully responsive** across laptops, tablets, and mobile devices.  
+- Displayed **tasks as individual cards**, following the Figma styling for shadows, padding, and borders.  
+- Added **titles to all task cards** for clear descriptions.  
+- Implemented a **static sidebar** with the correct icons, labels, and branding elements.  
 
 ## 📱 Mobile View
 
-![Mobile UI](./explainer-images/JSL01_Mobile.png)
+![Mobile UI](./assets/mobile.png)
+
+## Tablet View
+
+![Tablet UI](./assets/tablet.png)
 
 ## 💻 Desktop View
 
-![Desktop UI](./explainer-images/JSL01-Desktop.png)
+![Desktop UI](./assets/desktop.png)
 
-## Expected Outcome
+## ⛏️ Tech Stack
 
-The final application will present a **visually cohesive, user-friendly, and responsive Kanban board** that aligns precisely with the provided Figma design. It will include **consistent styling**, **a well-structured layout, and intuitive task organization** to enhance usability across different devices.
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,vscode,figma)](https://skillicons.dev)
+
+## 👩‍🏫Setup and Running Instructions
+
+Follow these steps to get the project running on your local machine:
+
+### 1. Clone the Repository
+First, clone the repo from GitHub
+
+## 2. Navigate into the Project
+Move into the project folder
+
+## 3. Open in VS Code (or editor of choice)
+If you’re using Visual Studio Code, open the project with:
+code .
+
+## 🎯 Expected Outcome
+
+The final application delivers a **visually cohesive, user-friendly, and responsive Kanban board** that matches the provided Figma design.  
+It provides **consistent styling, intuitive task organization, and a polished look** across all devices.
+
