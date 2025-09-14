@@ -1,4 +1,33 @@
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
 }
 
+#kanban-logo {
+    width: 155px;
+    height: 26px;
+    margin: 32px 114px 54px 34px;
+}
+
+#nav-h4 {
+    font-size: 14px;
+    color: #828FA3;
+    margin: 0px 121px 19px 32px ;
+}
+
+#career-btn {
+    background-color: #635FC7;
+    color: white;
+    font-size: 15px;
+    padding: 15px 106px 15px 64px;
+    border: 0px;
+    border-bottom-right-radius: 100px;
+    border-top-right-radius: 100px;
+    margin-right: 23px;
+}
+
+#career-h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 29px 947px 37px 24px;
+}
