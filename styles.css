@@ -106,19 +106,21 @@ header {
 
 }
 
+/* Mobile Media Query */
+
 @media (max-width: 375px) {
     body {
     display: block;
     margin: 0px;
 }
 #kanban-logo{
-    height: 35px;
-    width: 150px;
+    height: 25px;
+    width: 120px;
     margin-bottom: 20px;
 }
 
 #nav-h4 {
-    display: none;
+    display: ;
 }
 
 #career-btn {
@@ -140,7 +142,49 @@ header{
     
 }
 
-#career-btn{
+#task-btn{
     width: 320px;
+}
+}
+
+/* Tablet Media Query */
+
+@media (max-width: 768px) {
+body {
+    margin: 0px;
+}
+#kanban-logo{
+    height: 40px;
+    width: 160px;
+    margin-bottom: 30px;
+    margin-right: 0px;
+}
+
+#nav-h4 {
+    margin-bottom: 30px;
+}
+
+#career-btn {
+    width: 250px;
+    padding: 15px 30px 15px 15px;
+}
+ #career-h2 {
+    font-size: 24px;
+    margin: 25px 0px 25px 20px
+ }
+
+.task-cols {
+    display: block;
+    gap: 40px;
+}
+
+.task-container {
+    width: auto;
+    margin-left: 0px;
+
+}
+
+.kanban-body {
+    width: 490px;
 }
 }
