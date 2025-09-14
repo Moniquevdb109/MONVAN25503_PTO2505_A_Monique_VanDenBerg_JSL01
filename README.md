@@ -7,6 +7,8 @@ It features multiple columns, task cards, and a static sidebar, all styled with 
 
 **Figma Design:** https://www.figma.com/design/y7bFCUYL5ZHfPeojACBXg2/Challenge-1-%7C-JSL?node-id=0-1&t=yngAIXXKnJfH7Jj3-1
 
+---
+
 ## 🚀 Features & Objectives
 
 - Added a **favicon and page title** that match the project’s branding.  
@@ -29,9 +31,13 @@ It features multiple columns, task cards, and a static sidebar, all styled with 
 
 ![Desktop UI](./assets/desktop.png)
 
+---
+
 ## ⛏️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,git,github,vscode,figma)](https://skillicons.dev)
+
+---
 
 ## 👩‍🏫Setup and Running Instructions
 
@@ -46,6 +52,8 @@ Move into the project folder
 ## 3. Open in VS Code (or editor of choice)
 If you’re using Visual Studio Code, open the project with:
 code .
+
+---
 
 ## 🎯 Expected Outcome
 
