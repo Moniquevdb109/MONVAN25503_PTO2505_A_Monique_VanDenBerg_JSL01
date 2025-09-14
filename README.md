@@ -1,4 +1,4 @@
-# Kanban Board UI
+# Kanban Board
 
 ## 💡 Overview
 
