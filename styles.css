@@ -120,7 +120,7 @@ header {
 }
 
 #nav-h4 {
-    display: ;
+    display: none;
 }
 
 #career-btn {
@@ -139,12 +139,12 @@ header{
 .task-container {
     width: 375px;
     margin-left: 0px;
-    
 }
 
 #task-btn{
     width: 320px;
 }
+
 }
 
 /* Tablet Media Query */
