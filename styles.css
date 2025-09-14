@@ -105,3 +105,42 @@ header {
     box-shadow: 0px 4px 6px rgba(54, 78, 126, 0.1);
 
 }
+
+@media (max-width: 375px) {
+    body {
+    display: block;
+    margin: 0px;
+}
+#kanban-logo{
+    height: 35px;
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+#nav-h4 {
+    display: none;
+}
+
+#career-btn {
+    display: none;
+}
+
+header{
+    display: none;
+}
+
+.task-cols {
+    display: block;
+    gap: 35px;
+}
+
+.task-container {
+    width: 375px;
+    margin-left: 0px;
+    
+}
+
+#career-btn{
+    width: 320px;
+}
+}
